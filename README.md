@@ -21,6 +21,12 @@ Although these more senior employees are without a doubt accustomed to criticism
 
 # STEP 1: Understand the Problem
 
+Ask all the questions you can think of about the uses, communitity, consumer, and resources.
+
+This is your first step in showing the interviewer that you are throurough and can have an organized thought process.
+
+These Product Questions are deceiving complex. You could be asked to design a cup, however if you did not clarify, you wouldn't know that this cup needs to hold a liquid on the International Space Station for Astronauts in zero gravity. That is why fully understanding the problem is absolutely essential to being successful.
+
 # STEP 2: Provide a Structure
 If you aren't coming from a previous PM position or Kingergarten class room, this step might be a bit difficult to start doing at first. However, this is a skill that, when properly developed, will help you and your audience get the most out of every conversation. 
 
@@ -30,7 +36,6 @@ First I am going to talk about the goals.
 Then, I am going to list out some potential features against these goals.
 Ok, so starting with the goals...
 ```
-
 
 
 
