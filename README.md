@@ -22,6 +22,17 @@ Although these more senior employees are without a doubt accustomed to criticism
 # STEP 1: Understand the Problem
 
 # STEP 2: Provide a Structure
+If you aren't coming from a previous PM position or Kingergarten class room, this step might be a bit difficult to start doing at first. However, this is a skill that, when properly developed, will help you and your audience get the most out of every conversation. 
+
+Here is an example of providing structure in the context of this interview:
+```
+First I am going to talk about the goals.
+Then, I am going to list out some potential features against these goals.
+Ok, so starting with the goals...
+```
+
+
+
 
 # STEP 3: Identify the Users and Customers
 
