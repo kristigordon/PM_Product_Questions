@@ -37,7 +37,7 @@ Then, I am going to list out some potential features against these goals.
 Ok, so starting with the goals...
 ```
 
-
+This helps the interviewer follow along easier and will be useful in any future PM venture. 
 
 # STEP 3: Identify the Users and Customers
 
