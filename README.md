@@ -41,6 +41,10 @@ This helps the interviewer follow along easier and will be useful in any future 
 
 # STEP 3: Identify the Users and Customers
 
+This is one of the best areas to take a second and drill down into since it will drive the remainder of your steps/design.
+
+Diego, a PM at Microsoft, does a great video on getting a proper framework for this. Starting with certain age groups, occupations, and drivrrs, really helps you reate a unique problem set that will allow for narrowed distinctions instead of broad and wandering solutions.  
+
 # STEP 4: Use Cases
 
 # STEP 5: How well is this product currently doing for our use cases?
